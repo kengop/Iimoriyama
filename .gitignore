@@ -1,2 +1,11 @@
 Iimoriyama/obj/
 Iimoriyama/bin/
+.sonarqube/
+iimoriyama-pcl/obj/
+iimoriyama-pcl-test/obj/
+iimoriyama-pcl/bin/
+iimoriyama-pcl-test/bin/
+IimoriyamaTests/obj/
+IimoriyamaTests/bin/
+*.suo
+packages/
